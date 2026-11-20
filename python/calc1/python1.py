@@ -1,4 +1,9 @@
+HALLLOOW
 
+lizzy = 37
+Loma = 42
+if lizzy < Loma:
+    print("DONKEY MAN")
 
 
 
